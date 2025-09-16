@@ -17,7 +17,7 @@ sudo apt update && sudo apt install -y dnsutils whois curl jq iputils-ping trace
 Packages optionnels :
 - traceroute : traceroute réseau
 - nmap : scan de ports (commenté dans le script)
-- ping6 / iputils-ping : pour tester IPv6
+
 
 Fichier requirements.txt
 ------------------------
