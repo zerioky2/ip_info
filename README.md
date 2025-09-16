@@ -29,10 +29,10 @@ Emplacement et permissions
    - Si tu veux qu'il soit disponible pour tous les utilisateurs : /usr/local/bin/ip_info.sh
 
 2. Rendre exécutable :
-   sudo chmod +x /usr/local/bin/ip_tracer_force_free.sh
+   sudo chmod +x /usr/local/bin/ip_info.sh
    (ou chmod +x ./ip_info.sh si utilisé dans le répertoire courant)
 
-3. Propriétaire (optionnel) :
+4. Propriétaire (optionnel) :
    sudo chown root:root /usr/local/bin/ip_info.sh
 
 Utilisation
